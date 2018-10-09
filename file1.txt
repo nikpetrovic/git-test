@@ -1,4 +1,6 @@
 some file
 this is edited after edited some file
-edited some file
+edit2: edited some file
+edit 1
 and this is after as well
+edit 3
